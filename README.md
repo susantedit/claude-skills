@@ -45,6 +45,7 @@ All other skills in this collection originate from exceptional engineering teams
 * **Anthropic / Claude Code Community**: TDD, Git worktree isolation, subagent workflows, code review pipelines, and verification protocols.
 * **Emil Kowalski / animations.dev**: Motion craft, interaction design, animation reviews, and timing standards (`emil-design-eng`, `animate`, `review-animations`).
 * **SEO Engineering & Marketing Specialists**: Comprehensive SEO audits, SERP analysis, DataForSEO, Google Search Console, and schema generators (`seo`, `seo-local`, `seo-audit`, `seo-geo`, etc.).
+* **Nilbuild / page-mascot Team**: Interactive cursor-tracking and reaction sprite mascot framework (`page-mascot`).
 * **Claude-Mem Team**: Cross-session persistent memory, knowledge graphs, and digest generators (`mem-search`, `knowledge-agent`, `mode-creator`).
 
 ---
@@ -60,6 +61,7 @@ Below is the directory of all skills in this workspace, organized by category, c
 | Skill & Path | Description | Example Usage Prompt |
 | :--- | :--- | :--- |
 | **`refine-components`**<br>`/D:\skills\refine-components` | ⭐ **(User Authored)** Refines UI components into high-end interfaces using curated libraries and mandatory Playwright visual verification. | `/D:\skills\refine-components` *"Refine this pricing card component using Magic UI animations and verify it visually in the browser."* |
+| **`page-mascot`**<br>`/D:\skills\page-mascot` | Cursor-tracking React chibi mascot that watches pointer movement and reacts when clicked, using dual 3×3 sprite sheets without heavy runtimes. | `/D:\skills\page-mascot` *"Put a cursor-following fox mascot at the top of my page."* |
 | **`apple-design`**<br>`/D:\skills\apple-design` | Apple's interface design philosophy: fluid physical motion, haptics, spring physics, translucency, and spatial depth. | `/D:\skills\apple-design` *"Redesign this modal sheet with Apple-like spring transitions and frosted glass blur."* |
 | **`animate`**<br>`/D:\skills\animate` | Builds fluid web animations from scratch with proper easing, interruptibility, and exit transitions. | `/D:\skills\animate` *"Animate this sidebar drawer with a smooth cubic-bezier exit and enter curve."* |
 | **`animate-expo`**<br>`/D:\skills\animate-expo` | React Native & Expo animation builder with Reanimated, Gesture Handler, and haptics. | `/D:\skills\animate-expo` *"Add a swipe-to-dismiss gesture on this notification item using Reanimated."* |
