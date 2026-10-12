@@ -205,11 +205,52 @@ Below is the directory of all skills in this workspace, organized by category, c
 
 ---
 
+### 🛡️ 8. Reverse Engineering, Security & OSINT Intelligence
+
+| Skill & Path | Description | Example Usage Prompt |
+| :--- | :--- | :--- |
+| **`reverse-skill`**<br>`/D:\skills\reverse-skill` | Master cybersecurity & reverse engineering router: APK decompile, JS hook/signatures, binary diffing, exploit chains, IDA Pro/Ghidra/radare2 workflows, and authorized penetration testing. | `/D:\skills\reverse-skill` *"Decompile this Android APK, inspect the network security config, and hook the API signing method using Frida."* |
+| **`geo-sleuth`**<br>`/D:\skills\geo-sleuth` | OSINT photo geolocation & chronolocation with tool-verified terrain elevation, sun bearings, OpenStreetMap geometry, and satellite imagery verification. | `/D:\skills\geo-sleuth` *"Find exactly where this photo was taken and verify the camera angle with satellite imagery."* |
+| **`playwright-cli`**<br>`/D:\skills\playwright-cli` | End-to-end browser automation, DOM interaction, UI testing, and visual screenshot verification. | `/D:\skills\playwright-cli` *"Test the login modal flow in headless Chromium and capture a full-page screenshot."* |
+
+---
+
+### 👑 9. Autonomous Agent Crews, Video & Karpathy Second Brain (Hermes Suite)
+
+| Skill & Path | Description | Example Usage Prompt |
+| :--- | :--- | :--- |
+| **`hermes-goldmine`**<br>`/D:\skills\hermes-goldmine` | Full-stack autonomous agent crew operating system: Telegram topic routing, Composio 250+ SaaS tools, scheduled background watchers, and multi-persona execution (Scout, Researcher, Builder, Sentinel, Marketer). | `/D:\skills\hermes-goldmine` *"Launch Hermes Scout to monitor GitHub trending repositories, summarize top releases, and alert in Telegram #scout."* |
+| **`hermes-second-brain`**<br>`/D:\skills\hermes-second-brain` | Andrej Karpathy's Obsidian Second Brain architecture: atomic notes, bi-directional `[[wiki-links]]`, MOC indices, and memory that survives context window compaction. | `/D:\skills\hermes-second-brain` *"Distill today's architectural decisions into atomic concept notes in my Obsidian vault."* |
+| **`defuddle`**<br>`/D:\skills\defuddle` | Web-to-markdown distillation engine stripping ads, navigation clutter, cookie modals, and scripts for clean second brain intake. | `/D:\skills\defuddle` *"Defuddle this technical article URL into clean, semantic markdown for my Obsidian vault."* |
+| **`caveman`**<br>`/D:\skills\caveman` | Ultra-dense, token-saving communication protocol removing conversational pleasantries while preserving 100% technical and code accuracy. | `/D:\skills\caveman` *"Switch to caveman mode and rapidly debug this port binding failure."* |
+| **`codebase-memory`**<br>`/D:\skills\codebase-memory` | Structural codebase memory and architecture knowledge graph indexing symbol hierarchies, call graphs, and type dependencies across sessions. | `/D:\skills\codebase-memory` *"Query codebase memory for all endpoints touching user billing and their authentication middleware."* |
+| **`humanizer`**<br>`/D:\skills\humanizer` | Anti-AI writing engine eliminating promotional fluff, corporate buzzwords, and AI tropes ("delve", "pivotal", "tapestry") for natural, thoughtful human prose. | `/D:\skills\humanizer` *"Humanize this product launch announcement so it sounds direct, clear, and authentic."* |
+| **`agent-reach`**<br>`/D:\skills\agent-reach` | Cross-platform web intelligence and social signal scraping across GitHub, Twitter/X, Reddit, and Product Hunt. | `/D:\skills\agent-reach` *"Scan developer discussions for recurring complaints about vector database latency."* |
+| **`marketing-skills`**<br>`/D:\skills\marketing-skills` | Growth, positioning, value proposition design, landing page CRO, and product launch copywriting playbooks. | `/D:\skills\marketing-skills` *"Audit our SaaS landing page hero section using the PAS copywriting framework."* |
+| **`composio`**<br>`/D:\skills\composio` | Connects agents to 250+ SaaS tools and developer platforms (GitHub, Linear, Gmail, Slack, Notion) with secure OAuth session handling. | `/D:\skills\composio` *"Use Composio to create a Linear ticket for this regression bug and assign it to the frontend lead."* |
+| **`open-montage`**<br>`/D:\skills\open-montage` | AI video assembly engine: pacing, automated subtitle synchronization, B-roll sequencing, and local FFmpeg rendering. | `/D:\skills\open-montage` *"Generate a montage plan and subtitle overlays for these 3 product demo video clips."* |
+| **`oh-my-claudecode`**<br>`/D:\skills\oh-my-claudecode` | Multi-agent team orchestration layer: specialized roles (Lead Architect, SWE, QA, Security Auditor), prompt workflows, and task delegation. | `/D:\skills\oh-my-claudecode` *"Assemble an oh-my-claudecode team with Architect and QA roles to redesign our payment webhook pipeline."* |
+| **`hermes-mission-control`**<br>`/D:\skills\hermes-mission-control` | NEXORA centralized mission control hub: agent fleet monitoring, token budgets, task kanban, and Telegram forum bridge. | `/D:\skills\hermes-mission-control` *"Open Hermes Mission Control to check running agent tasks, error rates, and token consumption."* |
+| **`nova-youtube-agent`**<br>`/D:\skills\nova-youtube-agent` | YouTube video intelligence agent extracting timestamped transcripts, architectural takeaways, code snippets, and Obsidian summaries. | `/D:\skills\nova-youtube-agent` *"Extract full transcript and architectural takeaways from this YouTube engineering talk into my second brain."* |
+| **`before-you-build`**<br>`/D:\skills\before-you-build` | Pre-implementation sanity check: investigates existing tools, edge cases, maintenance debt, and rollback plans before writing code. | `/D:\skills\before-you-build` *"Run before-you-build on this proposed custom auth token microservice to see if building custom is justified."* |
+| **`grill-me`**<br>`/D:\skills\grill-me` | Relentless interactive questioning interview to eliminate ambiguity and lock down design decisions before planning. | `/D:\skills\grill-me` *"Grill me on my requirements for this multi-tenant database migration."* |
+| **`draw-your-font`**<br>`/D:\skills\draw-your-font` | Custom font design and vector glyph generator: SVG path calculations, variable axes, metrics, and web font exports. | `/D:\skills\draw-your-font` *"Design an SVG vector glyph set for a custom futuristic monospace numbers font."* |
+| **`hermes-watchers`**<br>`/D:\skills\hermes-watchers` | Autonomous daemon watchers running scheduled background checks on APIs, repos, and databases with zero noise and high-signal alerts. | `/D:\skills\hermes-watchers` *"Deploy a watcher daemon to monitor this GitHub release feed and alert me on critical CVE patches."* |
+| **`code-wiki`**<br>`/D:\skills\code-wiki` | Automated developer wiki compiler generating linked markdown documentation, API references, and Mermaid data flows from source code. | `/D:\skills\code-wiki` *"Compile a complete developer wiki with Mermaid diagrams for this monorepo into my Obsidian vault."* |
+| **`adversarial-ux-test`**<br>`/D:\skills\adversarial-ux-test` | Stress-tests user interfaces against rage-clicking, input fuzzing, flaky network latency, and extreme viewport dimensions using Playwright. | `/D:\skills\adversarial-ux-test` *"Subject our checkout form to adversarial UX tests to uncover race conditions and input overflow bugs."* |
+| **`skillclaw`**<br>`/D:\skills\skillclaw` | Automated skill discovery, AST safety vetting, and dynamic adapter tool for importing external agent skills into Antigravity. | `/D:\skills\skillclaw` *"Vet and adapt this external open-source agent skill repo into our Antigravity skills catalog."* |
+
+---
+
 ## 🎯 Quick Reference Cheat Sheet
 
+* **To reverse engineer an APK, binary, or encrypted JS**: `/D:\skills\reverse-skill`
+* **To geolocate a photo using OSINT and satellite data**: `/D:\skills\geo-sleuth`
+* **To automate browser testing**: `/D:\skills\playwright-cli`
+* **To dispatch the autonomous Hermes multi-agent crew**: `/D:\skills\hermes-goldmine`
+* **To manage Obsidian Second Brain memory**: `/D:\skills\hermes-second-brain`
 * **To refine a UI component visually**: `/D:\skills\refine-components`
 * **To audit local business search rankings**: `/D:\skills\seo-local`
 * **To plan a large feature before coding**: `/D:\skills\make-plan`
 * **To debug a stubborn intermittent bug**: `/D:\skills\systematic-debugging`
-* **To inspect animations against high craft standards**: `/D:\skills\review-animations`
 * **To audit backend security vulnerabilities**: `/D:\skills\audit\security`
